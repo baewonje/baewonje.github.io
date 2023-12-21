@@ -86,13 +86,16 @@ Bug reports, proposals of new features, and pull requests are welcome on GitHub 
 
 ## Development
 
-To set up your environment to develop this theme: fork this repo, the run `bundle install` from the root directory.
+enuSpace gitHub HomePage : https://expnuni.github.io/enuspace_doc/
 
-A modern [devcontainer configuration](https://code.visualstudio.com/docs/remote/containers) for VSCode is included.
+enuSpace Overview
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
-When this theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be included in the gem.
+enuSpace는 HMI/SCADA/DCS/IOT/AI 분야에서 활용되는 다기능 통합개발자 솔루션입니다. 그래픽 편집 및 런타임 뷰어 기능을 포함하고 있으며, 동적 데이터 가시화 도구를 제공합니다. 객체 지향 프로그래밍(Object Oriented Programming:OOP)개념을 도입한 사용자정의 라이브러리를 생성하여 그래픽 컴포넌트로 적용 가능합니다.
+
+enuSpace는 동적 디스플레이와 시뮬레이션 도구가 통합되어 로직 및 알고리즘 라이브러리 블럭을이용하여 데이터 연결선 만으로 플로우베이스 프로그래밍(Flowbased Programming)이 가능합니다. 연산결과는 동적 디스플레이 객체를 통하여 표현합니다.
+
+enuSpace는 소프트웨어 개발자 도구(Software Development Kit :SDK)를 제공하며, SDK그래픽 기능을 활용하여 빠르고 수려한 윈도우 그래픽 프로그램을 개발할수 있습니다.
 
 ## License
 
